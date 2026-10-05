@@ -1,6 +1,6 @@
 # Coin Apartments & Poshtel
 
-Live site: https://coin.chernivtsi.space
+Live site: https://coin.hotelup.work
 
 ## About
 Coin Apartments & Poshtel — хостел і апартаменти у Чернівцях. Односторінковий лендинг. Фото закладу немає (`photos_source: null`), тому hero типографічний (CSS/SVG), а єдині фото — міста Чернівців з Pexels (див. Photos).
